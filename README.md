@@ -1,4 +1,4 @@
-# A barebones Laravel Wink theme
+# A barebones Laravel Wink boilerplate/theme
 
 ## Demo
 
