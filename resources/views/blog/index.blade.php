@@ -1,7 +1,7 @@
 @extends('app')
 
 @push('title')
-    <title>Casper Sørensen's blog</title>
+    <title>{{ config('app.name') }}</title>
 @endpush
 
 @section('content')
