@@ -31,6 +31,7 @@
 
     @stack('stylesheets')
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.14.1/build/styles/github.min.css">
 </head>
 <body>
 <div id="app">
